@@ -1,6 +1,6 @@
 // URI - 1024: https://www.urionlinejudge.com.br/judge/pt/problems/view/1024
 
-const input = require('fs').readFileSync('input.txt', 'utf8');
+const input = require('fs').readFileSync('/dev/stdin', 'utf8');
 const lines = input.split('\n');
 
 const amountOfTextsToEncrypt = lines.shift()
