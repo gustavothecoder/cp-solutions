@@ -1,4 +1,4 @@
-﻿// URI - 1027: https://www.urionlinejudge.com.br/judge/pt/problems/view/1027
+﻿// URI - 1028: https://www.urionlinejudge.com.br/judge/pt/problems/view/1028
 
 using System;
 
