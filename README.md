@@ -1,4 +1,3 @@
-# uri-problems
-URI troubleshooting repository.
+# cp-solutions
 
-Problems can be found here: [URI](https://www.urionlinejudge.com.br/judge/en/login)
+Problem solutions from multiple competitive programming platforms.
